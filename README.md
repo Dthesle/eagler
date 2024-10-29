@@ -4,16 +4,36 @@
 
 Basically what this is, its just all eagler versions known in html file format, this is hostable aswell if you're lazy
 
-This has the containing eaglercraft versions:
-- EC Version Alpha 1.2.6
-- EC Version Beta 1.3
-- EC Version Beta 1.7.3
-- EC Verion Indev
-- EC Version Infdev
-- EC Version 1.2.5
-- EC Version 1.5.2
-- EC Version 1.8.8
- maybe more soon
+<table>
+  <tr>
+    <th>Current Versions</th>
+  </tr>
+  <tr>
+    <td>EC - Alpha 1.2.6</td>
+  </tr>
+  <tr>
+    <td>EC - Beta 1.3</td>
+  </tr>
+  <tr>
+    <td>EC - Beta 1.7.3</td>
+     </tr>
+  <tr>
+    <td>EC - Indev</td>
+  </tr>
+  <tr>
+    <td>EC - Infdev</td>
+     </tr>
+  <tr>
+    <td>EC - 1.2.5</td>
+  </tr>
+  <tr>
+    <td>EC - 1.5.2</td>
+     </tr>
+  <tr>
+    <td>EC - 1.8.8</td>
+  </tr>
+</table>
+  
 > [!TIP]
 > Download for better usage and portability, blah blah blah
 
