@@ -1,8 +1,11 @@
 # eagler
+> [!NOTE]
+> EC stands for Eaglercraft.
+
 Basically what this is, its just all eagler versions known in html file format, this is hostable aswell if you're lazy
 
 This has the containing eaglercraft versions:
-- e
+- Eagler
 - e
 - e
 - e
