@@ -10,6 +10,8 @@
 + v1.8.8 forge (web)
 + v1.9 (web)
 + v1.11 (web)
++ updated readme.md
 
 > ## (10/30/24) Updated (v1.1)
 + fixed 1.8.8 (html)
++ updated readme.md (again)
