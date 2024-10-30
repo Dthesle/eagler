@@ -13,11 +13,16 @@
 > This can be taken down at any moment and I completely understand.
 > - everything is broken rn besides 1.8.8
 
+> [!TIP]
+> Download for better usage and portability, blah blah blah
+
 # What is Eaglercraft?
 Eaglercraft is a website/file version of minecraft for students and many others to enjoy, Eaglercraft has the following versions consisting of Beta, Alpha, Indev, Infdev, all the way up to version 1.11 javascript runtime. Multiplayer, singleplayer, and LAN worlds available. Customizable profile, skins, capes, and controls. Game modes including creative, survival, peaceful, and more! Villages, mine shafts, dungeons, caves, ravines, many different biomes, and other things can spawn. The Nether and End are also available. Commands are the same as the real Minecraft. Basically what this is, its just all eagler versions known in html file format.
 - [Eaglercraft Server List](https://github.com/Dthesle/eagler/blob/main/SERVERS.md)
 > Servers works for 1.5.2 and higher, depending on which servers it is.
 - [Changelog](https://github.com/Dthesle/eagler/blob/main/CHANGELOG.md)
+
+**Disclaimer**: I do not own Eaglercraft, and I am not associated with it in any way, this is just a way for people to access it fullscreen on browser.
 
 <table>
   <tr>
@@ -63,8 +68,6 @@ https://webmc.xyz/mc/1.9/
 ```
 https://webmc.xyz/mc/1.11/
 ```
-> [!TIP]
-> Download for better usage and portability, blah blah blah
 
 > ### pros for eagler:
 > - minecraft in school
