@@ -5,6 +5,7 @@ Eaglercraft is a website/file version of minecraft for students and many others 
 - [Eaglercraft Server List](https://github.com/Dthesle/eagler/blob/main/SERVERS.md)
     - Servers works for 1.5.2 and higher, depending on which servers it is.
 - [Changelog](https://github.com/Dthesle/eagler/blob/main/CHANGELOG.md)
+    - Updates will always be here.
 
 > [!NOTE]
 > EC stands for Eaglercraft.
