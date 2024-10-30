@@ -35,25 +35,22 @@ Basically what this is, its just all eagler versions known in html file format. 
   <tr>
     <td>EC - 1.8.8</td>
   </tr>
-       </tr>
-  <tr>
-           </tr>
-  <tr>
-    <td>EC - 1.8.8 Forge</td>
-  </tr>
-    <td>EC - 1.9</td>
-  </tr>
-       </tr>
-  <tr>
-    <td>EC - 1.11</td>
-  </tr>
 </table>
 
-There's 1.9 and 1.11 but they're link variants and are more likely to get blocked so here.
-- [1.8.8 Forge](https://webmc.xyz/mc/1.8.8-forge/)
-- [1.9](https://webmc.xyz/mc/1.9/)
-- [1.11](https://webmc.xyz/mc/1.11/)
-  
+> There's 1.9 and 1.11 but they're link variants and are more likely to get blocked so..
+### Links:
+1.8.8 Forge
+```
+https://webmc.xyz/mc/1.8.8-forge/
+```
+1.9
+```
+https://webmc.xyz/mc/1.9/
+```
+1.11
+```
+https://webmc.xyz/mc/1.11/
+```
 > [!TIP]
 > Download for better usage and portability, blah blah blah
 
