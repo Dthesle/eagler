@@ -11,13 +11,13 @@ Eaglercraft is a website/file version of minecraft for students and many others 
 > - **Extra Note:** I do not own Eaglercraft, nor did I make Eaglercraft, and I am not associated with it in any way, this is just a way for people to access it fullscreen on browser.
 >   - **Another note:** When you create a new world, it will be a black screen, or you may have spawned underground. ALL YOU HAVE TO DO IS WAIT 30 SECONDS TO 5 MINUTES MAX! It will fix on its own. It will also be laggy at first, but it will smooth out after 5–10 minutes. Keep in mind that these are website/file versions of Minecraft and that not everything in the real current Minecraft will be avialable.
 >     - **Another Extra Note:** the links may be blocked accorrding to me since my blocker consistently blocks links (Lightspeed Filter Agent)
-<h3 align="center">
-  <img src="help.png" width="128" alt="DownloadsInFileExplorer">
-</h3>
 
 > [!IMPORTANT]
 > if you're on chromebook, when you download the files, they'll always be in your google drive.
-> if you're on a managed computer (such as windows) it'll always be in your file explorer
+>  - if you're on a managed computer (such as windows) it'll always be in your file explorer, like for example:
+<h3 align="center">
+  <img src="help.png" width="512" alt="DownloadsInFileExplorer">
+</h3>
 
 > [!WARNING]
 > Don't change ANYTHING besides the tab name in the code unless you want the entire file to break.
