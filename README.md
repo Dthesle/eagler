@@ -3,7 +3,8 @@
 > EC stands for Eaglercraft.
 
 Basically what this is, its just all eagler versions known in html file format. Everything is broken so give me some time to fix it.
-[Eaglercraft Server List](https://github.com/Dthesle/eagler/blob/main/SERVERS.md) Only works for 1.5.2 and higher.
+- [Eaglercraft Server List](https://github.com/Dthesle/eagler/blob/main/SERVERS.md)
+> [!NOTE] Servers works for 1.5.2 and higher, depending on which servers it is.
 
 <table>
   <tr>
