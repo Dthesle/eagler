@@ -29,6 +29,7 @@ Eaglercraft is a website/file version of minecraft for students and many others 
 
 > [!TIP]
 > Download for better usage and portability, blah blah blah
+> It's more recommended to use the files instead so it's never blocked.
 
 <table>
   <tr>
