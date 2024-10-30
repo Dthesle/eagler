@@ -1,8 +1,8 @@
-# eagler
+# Eaglercraft
 > [!NOTE]
 > EC stands for Eaglercraft.
 
-Basically what this is, its just all eagler versions known in html file format, this is hostable aswell if you're lazy
+Basically what this is, its just all eagler versions known in html file format. Everything is broken so give me some time to fix it.
 
 <table>
   <tr>
@@ -34,6 +34,10 @@ Basically what this is, its just all eagler versions known in html file format, 
   </tr>
        </tr>
   <tr>
+           </tr>
+  <tr>
+    <td>EC - 1.8.8 Forge</td>
+  </tr>
     <td>EC - 1.9</td>
   </tr>
        </tr>
@@ -42,7 +46,10 @@ Basically what this is, its just all eagler versions known in html file format, 
   </tr>
 </table>
 
-There's also 1.9 and 1.11 but they're link variants and are more likely to get blocked so....
+There's 1.9 and 1.11 but they're link variants and are more likely to get blocked so here.
+- [1.8.8 Forge](https://webmc.xyz/mc/1.8.8-forge/)
+- [1.9](https://webmc.xyz/mc/1.9/)
+- [1.11](https://webmc.xyz/mc/1.11/)
   
 > [!TIP]
 > Download for better usage and portability, blah blah blah
@@ -52,7 +59,6 @@ There's also 1.9 and 1.11 but they're link variants and are more likely to get b
 > - multiplayer
 > - offline capability
 > - html file download
-
 > ### cons for eagler:
 > -  is illegal
 > -  i forgor
