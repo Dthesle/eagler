@@ -32,6 +32,14 @@ Basically what this is, its just all eagler versions known in html file format, 
   <tr>
     <td>EC - 1.8.8</td>
   </tr>
+       </tr>
+  <tr>
+    <td>EC - 1.9</td>
+  </tr>
+       </tr>
+  <tr>
+    <td>EC - 1.11</td>
+  </tr>
 </table>
 
 There's also 1.9 and 1.11 but they're link variants and are more likely to get blocked so....
