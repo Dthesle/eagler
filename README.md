@@ -3,12 +3,18 @@
 > EC stands for Eaglercraft.
 > Another note: When you create a new world, it will be a black screen, or you may have spawned underground. ALL YOU HAVE TO DO IS WAIT 30 SECONDS TO 5 MINUTES MAX! It will fix on its own. It will also be laggy at first, but it will smooth out after 5–10 minutes. Keep in mind that these are website/file versions of Minecraft and that not everything in the real current Minecraft will be avialable.
 
+> [!IMPORTANT]
+> if you're on chromebook, when you download the files, they'll always be in your google drive.
+
+> [!WARNING]
+> Don't change ANYTHING besides the tab name in the code unless you want the entire file to break.
+
 > [!CAUTION]
-this can be taken down at any moment
-also everything is broken atm so give me some time to fix it.
+> This can be taken down at any moment and I completely understand.
+> - everything is broken rn besides 1.8.8
 
 # What is Eaglercraft?
-Eaglercraft is a website/file version of minecraft for students and many others to enjoy, Eaglercraft has the following versions consisting of Beta, Alpha, Indev, Infdev, all the way up to version 1.11 javascript runtime. Multiplayer, singleplayer, and LAN worlds available. Customizable profile, skins, capes, and controls. Game modes including creative, survival, peaceful, and more! Villages, mine shafts, dungeons, caves, ravines, many different biomes, and other things can spawn. The Nether and End are also available. Commands are the same as the real Minecraft. Basically what this is, its just all eagler versions known in html file format. Everything is broken so give me some time to fix it.
+Eaglercraft is a website/file version of minecraft for students and many others to enjoy, Eaglercraft has the following versions consisting of Beta, Alpha, Indev, Infdev, all the way up to version 1.11 javascript runtime. Multiplayer, singleplayer, and LAN worlds available. Customizable profile, skins, capes, and controls. Game modes including creative, survival, peaceful, and more! Villages, mine shafts, dungeons, caves, ravines, many different biomes, and other things can spawn. The Nether and End are also available. Commands are the same as the real Minecraft. Basically what this is, its just all eagler versions known in html file format.
 - [Eaglercraft Server List](https://github.com/Dthesle/eagler/blob/main/SERVERS.md)
 > Servers works for 1.5.2 and higher, depending on which servers it is.
 - [Changelog](https://github.com/Dthesle/eagler/blob/main/CHANGELOG.md)
@@ -68,3 +74,8 @@ https://webmc.xyz/mc/1.11/
 > ### cons for eagler:
 > -  is illegal
 > -  i forgor
+
+## To Do: 
+- [x] Upload all Eaglercraft Files
+- [ ] Fix all Eaglercraft Files
+- [ ] Try to host with Github Pages
