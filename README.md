@@ -33,6 +33,8 @@ Basically what this is, its just all eagler versions known in html file format, 
     <td>EC - 1.8.8</td>
   </tr>
 </table>
+
+There's also 1.9 and 1.11 but they're link variants and are more likely to get blocked so....
   
 > [!TIP]
 > Download for better usage and portability, blah blah blah
